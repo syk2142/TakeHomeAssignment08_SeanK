@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment08_SeanK</string>
+    <string name="phone_stand">How To Build A Phone Stand</string>
+    <string name="key_hanger">How To Make A Tennis Ball Key Hanger</string>
+    <string name="cat_bed">How To Build A Bed For Cat</string>
+    <string name="tool_hanger">How To Make A Tool Hanger in Kitchen</string>
+    <string name="wire_organizer">How To Make A Wire Organizer </string>
+
+    <string name="true_button">Great choice for house owner!</string>
+    <string name="false_button">Good Choice!</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+
+
+    <string name="level_beginner">Suggested Level: Beginner</string>
+    <string name="level_intermediate">Suggested Level: Intermediate</string>
+    <string name="level_advanced">Suggested Level: Advanced</string>
+    <string name="time_very_short">Estimated Time: Under 1 hours</string>
+    <string name="time_short">Estimated Time: Under 3 hours</string>
+    <string name="time_long">Estimated Time: More than 3 days</string>
+
+    <string name="tool_phone_stand">Required tools: scissors, super glue or hot glue, thick cardboard</string>
+    <string name="tool_key_hanger">Required tools: tennis ball, super glue or hot glue, cutter</string>
+    <string name="tool_cat_bed">Required tools: cutter, thick cardboard, blanket</string>
+    <string name="tool_tool_hanger">Required tools: S-shaped hanger, plastic cup, scissor or cutter (s)</string>
+    <string name="tool_wire_organizer">Required tools: cork, driller, elastic band</string>
+
+</resources>
